@@ -11,6 +11,13 @@ This repository demonstrates how to implement a client-side OAuth 2.0 flow in a 
 
 Follow these steps to run the demo locally.
 
+## Sample Demo
+
+
+https://github.com/user-attachments/assets/1d1b3dbe-9863-406b-9ec3-4dd6e93c2df7
+
+
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16.x or later)
