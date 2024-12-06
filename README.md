@@ -16,6 +16,9 @@ Follow these steps to run the demo locally.
 
 https://github.com/user-attachments/assets/1d1b3dbe-9863-406b-9ec3-4dd6e93c2df7
 
+## Architecture
+<img width="847" alt="flow-diagram" src="https://github.com/user-attachments/assets/96b2461d-7882-409c-8690-aa4a9546e9e6">
+
 
 
 ### Prerequisites
